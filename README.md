@@ -1,8 +1,6 @@
 ## About me.
 👋 Hi! I'm Valentín Ottaviano, a Junior Data Scientist and full-stack Web Developer based in Tucumán Argentina.
 
+👨‍💻 Currently I'm a collage Software Engeneer student, looking for new challenges and interesting projects. I learned coding by myself, and in 2020 started some freelance projects at local companies.
 
-<!---
-valenottaviano/valenottaviano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🫒 Outside the tech world, I enjoy reading self develpment and philosophy books. My favorite ones are "Atomic Habits" by James Clear and "El Hombre Mediocre" by José Ingenieros.
