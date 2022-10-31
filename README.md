@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://valentinottaviano.com](https://valentinottaviano.com)
 
-- 💬 Ask me about **AI, Deep Learning or everything you want ;)**
+- 💬 Ask me about **AI, Deep Learning or anything you want ;)**
 
 - 📫 How to reach me **valentinottaviano@gmail.com**
 
