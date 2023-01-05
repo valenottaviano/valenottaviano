@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Valentín Ottaviano</h1>
 <h3 align="center">A passionate Data Scientist and Software Engineer collage student.</h3>
-
-- 🔭 I’m currently working in **an awesome biotech startup, called Sylvarum**
-
-- 🌱 I’m currently learning **about Deep Learning and it's applications in medicine.**
-
-- 👨‍💻 All of my projects are available at [https://valentinottaviano.com](https://valentinottaviano.com)
-
-- 💬 Ask me about **AI, Deep Learning or anything you want ;)**
-
+- I am a data scientist and full stack web developer with expertise in Next.js, currently working at Sylvarum, a biotech company.
+- My expertise lies in using data and technology to solve complex problems and drive value for businesses.
+- I am skilled in a range of programming languages and technologies, including Python, R, SQL, and JavaScript.
+- I have strong experience with Next.js and have used it to develop a number of web applications.
+- I am comfortable working with large and complex datasets, and have a strong foundation in statistical analysis and machine learning.
+- As a full stack web developer, I am able to develop web applications from front to back end, and have experience with other frameworks such as React and Django.
+- I am a proactive and collaborative team player, with excellent communication and problem-solving skills.
+- I am always looking to learn and grow, and am excited to take on new challenges and contribute to meaningful projects.
 - 📫 How to reach me **valentinottaviano@gmail.com**
 
-- 📄 Know about my experiences [https://valentinottaviano.com/resume](https://valentinottaviano.com/resume)
+- 📄 Know about my experiences [https://valentinottaviano.vercel.app](valentinottaviano.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/valenotta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="valenotta" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/valentin-ottaviano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valentin-ottaviano" height="30" width="40" /></a>
 </p>
 
