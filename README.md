@@ -1,16 +1,17 @@
 <h1 align="center">Hi 👋, I'm Valentín Ottaviano</h1>
 <h3 align="center">A passionate Data Scientist and Software Engineer collage student.</h3>
-- I am a data scientist and full stack web developer with expertise in Next.js, currently working at Sylvarum, a biotech company.
-- My expertise lies in using data and technology to solve complex problems and drive value for businesses.
-- I am skilled in a range of programming languages and technologies, including Python, R, SQL, and JavaScript.
-- I have strong experience with Next.js and have used it to develop a number of web applications.
-- I am comfortable working with large and complex datasets, and have a strong foundation in statistical analysis and machine learning.
-- As a full stack web developer, I am able to develop web applications from front to back end, and have experience with other frameworks such as React and Django.
-- I am a proactive and collaborative team player, with excellent communication and problem-solving skills.
-- I am always looking to learn and grow, and am excited to take on new challenges and contribute to meaningful projects.
-- 📫 How to reach me **valentinottaviano@gmail.com**
+    🧑‍💼 I am a data scientist and full stack web developer with expertise in Next.js, currently working at Sylvarum, a biotech company.
+    🧑‍🔬 My expertise lies in using data and technology to solve complex problems and drive value for businesses.
+    💻 I am skilled in a range of programming languages and technologies, including Python, R, SQL, and JavaScript.
+    🔥 I have strong experience with Next.js and have used it to develop a number of web applications.
+    📊 I am comfortable working with large and complex datasets, and have a strong foundation in statistical analysis and machine learning.
+    🌐 As a full stack web developer, I am able to develop web applications from front to back end, and have experience with other frameworks such as React and Django.
+    🤝 I am a proactive and collaborative team player, with excellent communication and problem-solving skills.
+    🚀 I am always looking to learn and grow, and am excited to take on new challenges and contribute to meaningful projects.
 
-- 📄 Know about my experiences [https://valentinottaviano.vercel.app](valentinottaviano.vercel.app)
+
+
+- 📫 How to reach me **valentinottaviano@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
