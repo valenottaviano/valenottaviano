@@ -1,19 +1,4 @@
 <h1 align="center">Hi 👋, I'm Valentín Ottaviano</h1>
-<h3 align="center">A passionate Data Scientist and Software Engineer collage student.</h3>
-
-
- - 🧑‍💼 As a data scientist and full stack web developer with expertise in Next.js, I am currently working at Sylvarum, a biotech company where I have the opportunity to use my skills and knowledge to drive value for the business.
- - 🧑‍🔬 My expertise in data science and technology allows me to approach complex problems with a unique perspective and to develop innovative solutions that help businesses achieve their goals.
- - 💻 I am proficient in a wide range of programming languages and technologies, including Python, R, SQL, and JavaScript, which gives me the flexibility to tackle a variety of projects and challenges.
- - 🔥 I have a strong background in Next.js and have used it to develop a number of web applications that are functional, user-friendly, and visually appealing.
- - 📊 Working with large and complex datasets is one of my specialties, and I have a strong foundation in statistical analysis and machine learning techniques that allow me to extract valuable insights and make informed decisions.
- - 🌐 As a full stack web developer, I am able to develop web applications from start to finish, and have experience with frameworks such as React and Django that allow me to build scalable and efficient solutions.
- - 🤝 I pride myself on being a proactive and collaborative team player, and have excellent communication and problem-solving skills that help me to work effectively with others towards common goals.
- - 🚀  I am always looking to learn and grow, and am excited to take on new challenges and contribute to meaningful projects that make a difference.
-
-
-
-
 
 - 📫 How to reach me **valentinottaviano@gmail.com**
 
